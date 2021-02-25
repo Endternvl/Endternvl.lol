@@ -1,19 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome To Endternvl (Skaryey)!
 
-You can use the [editor on GitHub](https://github.com/Endternvl/Endternvl.lol/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I'm Skaryey aka. Daffa. I Love To Code And Do Something cool.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What do i do for fun?
 
-### Markdown
+I do, hmm.. AH! I Post YouTube Videos, Coding With My Friends, And More!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### What Do I Do Everyday?
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+-[x]
 
 - Bulleted
 - List
